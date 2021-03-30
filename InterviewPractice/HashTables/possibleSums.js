@@ -1,6 +1,7 @@
 
 /*
-You have a collection of coins, and you know the values of the coins and the quantity of each type of coin in it. You want to know how many distinct sums you can make from non-empty groupings of these coins.
+You have a collection of coins, and you know the values of the coins and the quantity of each type of coin in it. 
+You want to know how many distinct sums you can make from non-empty groupings of these coins.
 
 Example
 
@@ -36,7 +37,8 @@ Guaranteed constraints:
 
 [input] array.integer quantity
 
-An array containing the quantity of each type of coin in your collection. quantity[i] indicates the number of coins that have a value of coins[i].
+An array containing the quantity of each type of coin in your collection. quantity[i] 
+indicates the number of coins that have a value of coins[i].
 
 Guaranteed constraints:
 quantity.length = coins.length,
