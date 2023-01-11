@@ -1,2 +1,2 @@
 # CodeSignalSolutions
-CodeSignal Solution for different problems
+CodeSignal Solution for different problems.
